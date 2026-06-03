@@ -1,0 +1,11 @@
+market_name,state,customer_type,month,total_customers,total_crm_revenue,total_billing_revenue,total_gl_revenue,total_crm_vs_billing_variance,total_billing_vs_gl_variance,total_crm_vs_gl_variance,crm_vs_gl_variance_pct,arpu_gl
+Sandpoint,ID,Residential,2025-06,47,5547.0,5522.84,5530.89,24.16,-8.05,16.11,0.29,117.68
+Westminster,CO,Business,2025-06,54,6468.34,6455.29,6459.58,13.05,-4.29,8.76,0.14,119.62
+Centennial,CO,Residential,2025-06,44,4938.59,4911.65,4936.16,26.94,-24.51,2.43,0.05,112.19
+Westminster,CO,Residential,2025-06,58,6770.49,6785.34,6775.16,-14.85,10.18,-4.67,-0.07,116.81
+Sandpoint,ID,Business,2025-06,46,5520.19,5524.63,5522.81,-4.44,1.82,-2.62,-0.05,120.06
+Charlottesville,VA,Residential,2025-06,56,6792.95,6745.23,6746.88,47.72,-1.65,46.07,0.68,120.48
+Centennial,CO,Business,2025-06,47,5819.21,5817.45,5837.49,1.76,-20.04,-18.28,-0.31,124.2
+Wake Forest,NC,Residential,2025-06,47,5901.8,5897.22,5891.89,4.58,5.33,9.91,0.17,125.36
+Charlottesville,VA,Business,2025-06,53,6074.93,6091.19,6075.77,-16.26,15.42,-0.84,-0.01,114.64
+Wake Forest,NC,Business,2025-06,48,5345.79,5361.52,5371.78,-15.73,-10.26,-25.99,-0.48,111.91

@@ -1,0 +1,30 @@
+[0m22:13:28.990453 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A422783050>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A427096010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A427095450>]}
+
+
+============================== 22:13:29.001638 | 10d88059-e7ad-4f2c-9a99-65e2b2e924ac ==============================
+[0m22:13:29.001638 [info ] [MainThread]: Running with dbt=1.11.11
+[0m22:13:29.003381 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'introspect': 'True', 'log_cache_events': 'False', 'empty': 'None', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Thiago\\.dbt', 'use_colors': 'True', 'indirect_selection': 'eager', 'invocation_command': 'dbt init dbt_isp_finance', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m22:13:29.127068 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Thiago\.dbt
+[0m22:13:29.134194 [debug] [MainThread]: Starter project path: C:\Users\Thiago\anaconda3\envs\isp-finance\Lib\site-packages\dbt\include\starter_project
+[0m22:13:29.214919 [info ] [MainThread]: 
+Your new dbt project "dbt_isp_finance" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m22:13:29.214919 [info ] [MainThread]: Setting up your profile.
+[0m22:14:01.813652 [info ] [MainThread]: Profile dbt_isp_finance written to C:\Users\Thiago\.dbt\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m22:14:01.813652 [debug] [MainThread]: Command `dbt init` succeeded at 22:14:01.813652 after 32.99 seconds
+[0m22:14:01.813652 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A422783050>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A426065C10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002A425F9B3D0>]}
+[0m22:14:01.813652 [debug] [MainThread]: Flushing usage events
+[0m22:14:02.477524 [debug] [MainThread]: An error was encountered while trying to flush usage events

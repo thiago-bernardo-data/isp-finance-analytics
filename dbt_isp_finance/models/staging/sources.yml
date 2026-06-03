@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+
+    tables:
+      - name: customers
+      - name: markets
+      - name: crm_revenue
+      - name: billing_revenue
+      - name: gl_revenue
+      - name: churn_events
