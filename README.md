@@ -36,6 +36,9 @@ Looker Studio Dashboard
 ↓
 Future Claude / AI Agent Enablement
 ```
+## Architecture Diagram
+
+![Architecture Diagram](documentation/architecture_diagram.png)
 
 ## Tech Stack
 
@@ -122,6 +125,10 @@ Used to identify potential timing differences, revenue recognition issues or pro
 ## Executive Dashboard
 
 The dashboard was designed for Finance leadership and executive stakeholders.
+
+## Dashboard Preview
+
+![Dashboard](documentation/dashboard_final.png)
 
 ### KPI Cards
 
