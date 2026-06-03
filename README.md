@@ -38,7 +38,7 @@ Future Claude / AI Agent Enablement
 ```
 ## Architecture Diagram
 
-![Architecture Diagram](documentation/architecture_diagram.png)
+![Architecture Diagram](Documentation/architecture_diagram.png)
 
 ## Tech Stack
 
@@ -128,7 +128,7 @@ The dashboard was designed for Finance leadership and executive stakeholders.
 
 ## Dashboard Preview
 
-![Dashboard](documentation/dashboard_final.png)
+![Dashboard](Documentation/dashboard_final.png)
 
 ### KPI Cards
 
